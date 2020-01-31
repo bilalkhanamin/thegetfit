@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d54fc3b0b45a7673cadf3f5418ee6ead",
+    "revision": "44f2253c0aee41d9818625eccb7c32fc",
     "url": "/thegetfit/index.html"
   },
   {
-    "revision": "ce70ea65855633878eaf",
+    "revision": "779701bd9f21d2ea5ea8",
     "url": "/thegetfit/static/css/2.66a1a0a7.chunk.css"
   },
   {
-    "revision": "ffbfba8aa7c3034ef233",
+    "revision": "cc11178a5ddd4dcefbeb",
     "url": "/thegetfit/static/css/main.d6c68e6d.chunk.css"
   },
   {
-    "revision": "ce70ea65855633878eaf",
-    "url": "/thegetfit/static/js/2.369f0dac.chunk.js"
+    "revision": "779701bd9f21d2ea5ea8",
+    "url": "/thegetfit/static/js/2.bfbf1574.chunk.js"
   },
   {
     "revision": "86afaa925e0f432774bf95b19b6933fb",
-    "url": "/thegetfit/static/js/2.369f0dac.chunk.js.LICENSE"
+    "url": "/thegetfit/static/js/2.bfbf1574.chunk.js.LICENSE"
   },
   {
-    "revision": "ffbfba8aa7c3034ef233",
-    "url": "/thegetfit/static/js/main.8367f7c9.chunk.js"
+    "revision": "cc11178a5ddd4dcefbeb",
+    "url": "/thegetfit/static/js/main.98782062.chunk.js"
   },
   {
     "revision": "e3a5a6c2e21565e83a9f",
