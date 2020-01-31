@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "68de6a987e5f136acf488a7c782b7112",
+    "revision": "41f660a2055d78a1e1d0239690888b15",
     "url": "/thegetfit/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/thegetfit/static/css/2.66a1a0a7.chunk.css"
   },
   {
-    "revision": "7dc56664078e8b69c99b",
+    "revision": "c5d41e96242f53ce6e2e",
     "url": "/thegetfit/static/css/main.d6c68e6d.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/thegetfit/static/js/2.369f0dac.chunk.js.LICENSE"
   },
   {
-    "revision": "7dc56664078e8b69c99b",
-    "url": "/thegetfit/static/js/main.1e9fafbd.chunk.js"
+    "revision": "c5d41e96242f53ce6e2e",
+    "url": "/thegetfit/static/js/main.277f1474.chunk.js"
   },
   {
     "revision": "e3a5a6c2e21565e83a9f",
